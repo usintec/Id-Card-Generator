@@ -1,0 +1,13 @@
+c:\users\useful\documents\visual studio 2015\Projects\IdCardGenerator\IdCardGenerator\bin\Debug\IdCardGenerator.exe.config
+c:\users\useful\documents\visual studio 2015\Projects\IdCardGenerator\IdCardGenerator\bin\Debug\IdCardGenerator.exe
+c:\users\useful\documents\visual studio 2015\Projects\IdCardGenerator\IdCardGenerator\bin\Debug\IdCardGenerator.pdb
+c:\users\useful\documents\visual studio 2015\Projects\IdCardGenerator\IdCardGenerator\obj\Debug\IdCardGenerator.csprojResolveAssemblyReference.cache
+c:\users\useful\documents\visual studio 2015\Projects\IdCardGenerator\IdCardGenerator\obj\Debug\IdCardGenerator.exe
+c:\users\useful\documents\visual studio 2015\Projects\IdCardGenerator\IdCardGenerator\obj\Debug\IdCardGenerator.pdb
+c:\users\useful\documents\visual studio 2015\Projects\IdCardGenerator\IdCardGenerator\bin\Debug\itextsharp.dll
+C:\160 gig\IdCardGenerator\IdCardGenerator\bin\Debug\IdCardGenerator.exe.config
+C:\160 gig\IdCardGenerator\IdCardGenerator\obj\Debug\IdCardGenerator.exe
+C:\160 gig\IdCardGenerator\IdCardGenerator\obj\Debug\IdCardGenerator.pdb
+C:\160 gig\IdCardGenerator\IdCardGenerator\bin\Debug\IdCardGenerator.exe
+C:\160 gig\IdCardGenerator\IdCardGenerator\bin\Debug\IdCardGenerator.pdb
+C:\160 gig\IdCardGenerator\IdCardGenerator\obj\Debug\IdCardGenerator.csprojResolveAssemblyReference.cache
