@@ -2,7 +2,7 @@ By KAREEM YUSUF OLATAYO
 This application makes use of itextsharp.dll library to generate
 pdf file containing id cards of students seeting for WAEC
 (West Africa Examination Council) in a school. The Automation
-works compilina a list of students in a file using the name 
+works by compiling a list of students in a file using the name 
 index of the list to fetch a related passport (picture) of the 
 student.The application is indeed multi tasking and it also makes 
 use of events and passes data between threads.
